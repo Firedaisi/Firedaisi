@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi, I'm Opeyemi Oludaisi 🍓</h1>
+<h1 align="center">Hi, I'm Opeyemi 🍓</h1>
 <h3 align="center">I’m a driven full-stack 👩🏾‍💻 and game developer 🎮 who loves building cute, fun, and creative experiences — because I refuse to be put in a box!</h3>
 
 ###
